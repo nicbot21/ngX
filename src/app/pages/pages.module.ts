@@ -7,6 +7,7 @@ import { DashboardModule } from './dashboard/dashboard.module';
 import { ECommerceModule } from './e-commerce/e-commerce.module';
 import { PagesRoutingModule } from './pages-routing.module';
 import { MiscellaneousModule } from './miscellaneous/miscellaneous.module';
+//import { FormPtrabajoComponent } from './forms/form-ptrabajo/form-ptrabajo.component';
 
 @NgModule({
   imports: [
@@ -19,6 +20,7 @@ import { MiscellaneousModule } from './miscellaneous/miscellaneous.module';
   ],
   declarations: [
     PagesComponent,
+   // FormPtrabajoComponent,
   ],
 })
 export class PagesModule {

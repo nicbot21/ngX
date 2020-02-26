@@ -63,6 +63,10 @@ export const MENU_ITEMS: NbMenuItem[] = [
         title: 'Datepicker',
         link: '/pages/forms/datepicker',
       },
+      {
+        title: 'Plan Trabajo',
+        link: '/pages/forms/plantrabajo',
+      },
     ],
   },
   {
